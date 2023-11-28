@@ -22,7 +22,7 @@ struct ContentView: View {
     
     let timer1 = Timer.publish(every: 0.5, on: .main, in: .common).autoconnect()
     //let timer2 = Timer.publish(every: 2, on: .main, in: .common).autoconnect()
-    
+    // i love coding
     var body: some View {
         
         ZStack{
